@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "customerId": "111",
+      "monthOfYear": "1",
+      "transaction": [
+        120,
+        130
+      ]
+    },
+    {
+      "customerId": "111",
+      "monthOfYear": "2",
+      "transaction": [
+        100,
+        130
+      ]
+    },
+    {
+      "customerId": "111",
+      "monthOfYear": "2",
+      "transaction": [
+        100,
+        130
+      ]
+    },
+    {
+      "customerId": "222",
+      "monthOfYear": "2",
+      "transaction": [
+        100,
+        130
+      ]
+    }
+  ]
+}
